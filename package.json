@@ -19,7 +19,7 @@
   "dependencies": {
     "@types/crypto-js": "^4.0.1",
     "@types/md5": "^2.3.0",
-    "crypto-js": "^4.0.0",
+    "crypto-js": "^4.2.0",
     "got": "^11.8.2",
     "md5": "^2.3.0",
     "tough-cookie": "^4.0.0"
