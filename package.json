@@ -18,7 +18,7 @@
   "homepage": "https://github.com/id77/QuantumultX#readme",
   "dependencies": {
     "@types/crypto-js": "^4.0.1",
-    "@types/md5": "^2.3.0",
+    "@types/md5": "^2.3.5",
     "crypto-js": "^4.0.0",
     "got": "^11.8.2",
     "md5": "^2.3.0",
